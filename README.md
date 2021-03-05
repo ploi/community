@@ -5,6 +5,7 @@ This repository contains articles and community made tools/packages that you can
 ## Tools
 
 - Ploi CLI by [Felix Schmid](https://github.com/schmidfelix) - https://github.com/schmidfelix/ploi-cli
+- Ploi Deploy Github Action by [Glenn Carremans](https://github.com/Glennmen) - https://github.com/Glennmen/ploi-deploy-action
 
 ## Articles & publications
 
